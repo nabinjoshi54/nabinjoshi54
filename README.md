@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+This repository will be used for LIS-5693 course. 
 <!--
 **nabinjoshi54/nabinjoshi54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
